@@ -1,0 +1,13 @@
+.links {
+  list-style: none;
+  display: flex;
+}
+
+.links li {
+  display: flex;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+}
